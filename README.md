@@ -1,4 +1,4 @@
-<img src="assets/banner.png" width="100%" alt="banner"/>
+<img src="ggs/banner.jpg" width="100%" alt="banner"/>
 
 ## 👋 About me
 
