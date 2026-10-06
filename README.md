@@ -1,13 +1,13 @@
 <img src="ggs/banner.jpg" width="100%" alt="banner"/>
 
-## 👋 About me
+## About me
 
-Hey, I'm **Sumeet Yadav**, a Software Engineer from Mumbai, India.
+Hey, I'm **Sumeet Yadav**. I build backends in **Spring Boot** and ship them with **Docker, Kubernetes and CI/CD** on the cloud.
 
-I build secure, production-grade backends with **Spring Boot**, ship them with **Docker, Kubernetes & CI/CD**, and run them on the **cloud**. Right now I'm deep-diving into Kubernetes, Microservices and System Design.
+Right now I'm locked in on **microservices and system design**, figuring out how big systems actually stay up when everything is trying to break them.
 
-*Security first. Scale second. Ship always.*
+Less talk, more commits.
 
-## 🌐 Portfolio
+## Portfolio
 
-👉 **[sumeetdev.pages.dev](https://sumeetdev.pages.dev)**
+[sumeetdev.pages.dev](https://sumeetdev.pages.dev)
